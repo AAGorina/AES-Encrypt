@@ -1,0 +1,14 @@
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\bin\Debug\Encrypt AES.exe.config
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\bin\Debug\Encrypt AES.exe
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\bin\Debug\Encrypt AES.pdb
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt AES.csproj.AssemblyReference.cache
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt AES.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt_AES.AboutBox.resources
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt_AES.mode_form.resources
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt_AES.password_restrictions_form.resources
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt_AES.Properties.Resources.resources
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt AES.csproj.GenerateResource.cache
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt AES.csproj.CoreCompileInputs.cache
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt AES.exe
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt AES.pdb
+D:\Учёба\7 сем\Защита данных\Курсовая\programm\Encrypt AES\obj\Debug\Encrypt_AES.work_form.resources
